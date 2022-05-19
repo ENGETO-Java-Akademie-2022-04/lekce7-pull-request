@@ -8,3 +8,6 @@
 1. Prvni Zmena
 2. Druha Zmena
 3. Treti Zmena
+
+
+Zmena v IDEA
